@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Davi!<br><br>🔭 I’m currently working with Full-Stack Dev<br>🌱 I’m currently learning ML,  with focus on networks<br>⚡ Fun fact - ich spreche auch Deutsch!
+Hey, I'm Davi!<br><br>🔭 I’m currently working with Full-Stack Dev<br>🌱 I’m currently learning ML, with focus on networks. I'm also studying Golang for Back-end<br>⚡ Fun fact - ich spreche auch Deutsch!
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@ Hey, I'm Davi!<br><br>🔭 I’m currently working with Full-Stack Dev<br>🌱 I
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Davison003&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
